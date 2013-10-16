@@ -26,7 +26,7 @@
 <tr>
 <td valign="top">
 <p>
-  ’AhaMana's contingent of relationships offers a breadth of experience from 
+  ’AhaMana offers a breadth of experience from 
   vertical and horizontal developers, leaders in energy law, manufacturers of 
   next generation renewable energy technology and skilled project managers.
 </p>
