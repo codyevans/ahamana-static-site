@@ -23,26 +23,7 @@
 		</tr>
 		<tr>
 			<td>
-				<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr>
-	<td rowspan="6" valign="top" width="100" >
-		Address: 	</td>
-</tr>
-<tr>
-	<td valign="top">
-		Boise, Idaho<br />
-1112 W. Main St. Suite 101<br />
-Boise, ID 83702<br />
-<br />
-McCall, Idaho<br />
-112 N Third Street<br />
-McCall, ID 83638<br />
-<br />
-Tacoma, Washington<br />
-1145 Broadway Plaza #1300<br />
-Tacoma, WA 98402	</td>
-</tr>
-</table>
+		
 <br />
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tr>
